@@ -1,0 +1,43 @@
+省份，天眼查省份代码，企查查省份代码
+
+// 省
+河北，heb，HB
+山西，sx，SX
+辽宁，ln，LN
+吉林，jl，JL
+黑龙江，hlj，HLJ
+江苏，js，JS
+浙江，zj，ZJ
+安徽，ah，AH
+福建，fj，FJ
+江西，jx，JX
+山东，sd，SD
+河南，hen，HEN
+湖北，hub，HUB
+湖南，hun，HUN
+广东，gd，GD
+海南，han，HAIN
+四川，sc，SC
+贵州，gz，GZ
+云南，yn，YN
+陕西，snx，SAX
+甘肃，gs，GS
+青海，qh，QH
+台湾，tw，TW
+
+// 直辖市
+北京，bj，BJ
+天津，tj，TJ
+上海，sh，SH
+重庆，cq，CQ
+
+// 自治区
+内蒙古，nmg，NMG
+广西，gx，GX
+宁夏，nx，NX
+新疆，xj，XJ
+西藏，xz，XZ
+
+// 特别行政区
+香港，hk，XG
+澳门，mo，AM
